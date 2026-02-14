@@ -62,3 +62,5 @@ For better Wikipedia search results, use concise query terms (e.g., "Paris capit
 
 ## License
 MIT 
+## all tools of langchain is present here 
+https://docs.langchain.com/oss/python/integrations/tools
